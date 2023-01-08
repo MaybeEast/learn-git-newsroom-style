@@ -32,8 +32,6 @@ in February called "My Furry Valentine."
 * Update the final score of the high school basketball game to 93-78. Moonauts
 beat the Crows.
 * Who put the board game story under sports? Move it to culture!
-* Sort the names of all the plants being unveiled at the greenhouse gardening in
-descending order (top to bottom, A to Z)
 
 For each contribution/revision performed, also make sure to update it onto the
 headlines of the front page!

@@ -6,7 +6,7 @@ Serving you daily printed news since before newspapers went online.
 
 ## Local News
 * headline
-* headline
+* Cat Shows
 
 ## Sports
 * headline

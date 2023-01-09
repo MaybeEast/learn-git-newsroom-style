@@ -9,7 +9,7 @@ Serving you daily printed news since before newspapers went online.
 * headline
 
 ## Sports
-* headline
+* Update the final score of the high school basketball game to 93-78. Moonauts
 * headline
 
 ## Culture

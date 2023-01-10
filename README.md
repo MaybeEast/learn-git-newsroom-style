@@ -13,6 +13,7 @@ Get in a team. We need someone to report on each of these topics:
 
 * Local News
 * Sports
+* accccc
 
 Once you have been assigned a topic, you should work on contributions and revisions
 for only that topic.

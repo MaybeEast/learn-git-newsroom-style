@@ -10,7 +10,7 @@ Serving you daily printed news since before newspapers went online.
 
 ## Sports
 * headline
-* headline
+* Who put the board game story under sports? Move it to culture!
 
 ## Culture
 * Battle of the Bands
